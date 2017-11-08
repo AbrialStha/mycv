@@ -18,6 +18,7 @@ header h1 small{
     margin-top:18px; 
     list-style: none;
     text-align: right;
+    font-family: monospace;
 }
 .contact-info li, .contact-info-small li{
     margin-bottom: 10px;
